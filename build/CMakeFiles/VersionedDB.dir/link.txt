@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/VersionedDB.dir/src/main.cpp.o CMakeFiles/VersionedDB.dir/src/Database.cpp.o CMakeFiles/VersionedDB.dir/src/VersionControl.cpp.o -o VersionedDB  -lpthread

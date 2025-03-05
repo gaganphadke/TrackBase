@@ -1,0 +1,4 @@
+/Users/gaganphadke/Versioning/versioned-db/build/CMakeFiles/VersionedDB.dir
+/Users/gaganphadke/Versioning/versioned-db/build/CMakeFiles/Server.dir
+/Users/gaganphadke/Versioning/versioned-db/build/CMakeFiles/edit_cache.dir
+/Users/gaganphadke/Versioning/versioned-db/build/CMakeFiles/rebuild_cache.dir
